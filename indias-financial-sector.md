@@ -38,10 +38,10 @@ Mohan and Ray (2017) portray the journey of the Indian banking sector through th
 
 **(c) Development Finance Institutions (DFIs) in the 70s/80s and their Decline:**
 * **Names:** Mohan and Ray (2017, fn. 7) mention several DFIs established from the 1950s/60s which operated through the 70s and 80s: Industrial Development Bank of India (IDBI), Industrial Credit and Investment Corporation of India (ICICI), Industrial Finance Corporation of India (IFCI), National Bank for Agriculture and Rural Development (NABARD), National Housing Bank (NHB), and Small Industries Development Bank of India (SIDBI).
-*  **Reasons for Decline/Becoming Defunct:** The paper states that by the 1990s, DFIs became non-viable due to:
-    1.  Stoppage of refinance facilities from the RBI.
-    2.  Cessation of government budgetary support.
-    3.  Accumulation of non-performing assets on their loan portfolios.
+* **Reasons for Decline/Becoming Defunct:** The paper states that by the 1990s, DFIs became non-viable due to:
+    1. Stoppage of refinance facilities from the RBI.
+    2. Cessation of government budgetary support.
+    3. Accumulation of non-performing assets on their loan portfolios.
     Consequently, in the liberalized era, major DFIs like IDBI and ICICI were converted into commercial banks, IFCI became effectively non-functional, while others like NABARD, NHB, and SIDBI continued primarily as refinance institutions with government support.
 
 
@@ -50,26 +50,26 @@ Mohan and Ray (2017) portray the journey of the Indian banking sector through th
 
 **(a) Major Instruments of Monetary Policy (2 marks):**
 Based on Mohan and Ray (2017), the major instruments of monetary policy employed or referred to by the RBI include:
-*   Cash Reserve Ratio (CRR)
-*   Statutory Liquidity Ratio (SLR)
-*   Bank Rate (Historically significant, less so currently)
-*   Repo Rate (The primary policy rate under the LAF)
-*   Reverse Repo Rate (Part of the LAF corridor)
-*   Liquidity Adjustment Facility (LAF) - the framework through which repo and reverse repo operations are conducted.
+* Cash Reserve Ratio (CRR)
+* Statutory Liquidity Ratio (SLR)
+* Bank Rate (Historically significant, less so currently)
+* Repo Rate (The primary policy rate under the LAF)
+* Reverse Repo Rate (Part of the LAF corridor)
+* Liquidity Adjustment Facility (LAF) - the framework through which repo and reverse repo operations are conducted.
 
 **(b) Distinction between CRR and SLR Purpose (3 marks):**
 Mohan and Ray (2017) discuss CRR and SLR primarily in the context of financial repression and subsequent reforms:
-*   **Cash Reserve Ratio (CRR):** This represents the proportion of a bank's net demand and time liabilities (NDTL) that it must maintain as cash balances (historically, implicitly with the RBI, though not explicitly stated in the text provided). In the pre-reform era (1970s-80s), a high CRR served as a major tool of *resource pre-emption*, diverting funds away from banks' lendable resources, effectively channeling them towards government needs and contributing to financial repression. Its gradual reduction since the 1990s (from 15% to around 4%) was a key reform aimed at increasing the availability of lendable resources for the banking sector.
-*   **Statutory Liquidity Ratio (SLR):** This is defined (fn. 10) as the proportion of aggregate deposits (or NDTL, fn. 11) that banks must maintain in the form of government and other approved securities. Similar to CRR, a high SLR (nearly 40% in the early 1990s) was a tool for *resource pre-emption*, compelling banks to finance government deficits by holding government bonds, thus "crowding out" credit to the private sector. Its reduction (to around 21.5% by mid-2010s) significantly enhanced banks' ability to lend to the commercial sector.
+* **Cash Reserve Ratio (CRR):** This represents the proportion of a bank's net demand and time liabilities (NDTL) that it must maintain as cash balances with the RBI. In the pre-reform era (1970s-80s), a high CRR served as a major tool of *resource pre-emption*, diverting funds away from banks' lendable resources, effectively channeling them towards government needs and contributing to financial repression. Its gradual reduction since the 1990s (from 15% to around 4%) was a key reform aimed at increasing the availability of lendable resources for the banking sector.
+* **Statutory Liquidity Ratio (SLR):** This is defined (fn. 10) as the proportion of aggregate deposits (or NDTL, fn. 11) that banks must maintain in the form of government and other approved securities. Similar to CRR, a high SLR (nearly 40% in the early 1990s) was a tool for *resource pre-emption*, compelling banks to finance government deficits by holding government bonds, thus "crowding out" credit to the private sector. Its reduction (to around 21.5% by mid-2010s) significantly enhanced banks' ability to lend to the commercial sector.
 
 **Purpose Distinction:** While both impound bank resources, the paper highlights their historical purpose primarily as tools for *resource pre-emption* under the financially repressed regime, ensuring funds were available for the government. The reduction of both CRR and SLR was central to *liberalization* by freeing up bank resources for lending.
 
 **(c) Working Mechanism of Repo and Reverse Repo Rate Changes (5 marks):**
 Mohan and Ray (2017) explain that the RBI's monetary policy framework aims at setting the policy **Repo Rate**, which transmits through the money market to influence broader interest rates. The **Liquidity Adjustment Facility (LAF)** is the operating framework for managing day-to-day liquidity, aiming to keep the weighted average call money rate (WACR) anchored around the Repo Rate.
-*   **Repo Rate Mechanism:** The Repo rate is defined (fn. 12) as the fixed interest rate at which the RBI provides short-term (typically overnight) liquidity to banks against the collateral of government securities.
-    *   **Effect of Change:** When the RBI *lowers* the Repo rate, it reduces the cost for banks to borrow funds from the central bank. This can encourage banks to borrow more to meet their short-term liquidity needs, potentially increasing liquidity in the banking system and signaling an easing monetary policy stance, which tends to lower other money market rates. Conversely, when the RBI *raises* the Repo rate, borrowing from the RBI becomes more expensive, discouraging banks from accessing LAF funds, thus tightening liquidity conditions and signaling a contractionary stance.
-*   **Reverse Repo Rate Mechanism:** Although not explicitly defined, the Reverse Repo rate functions as the floor of the LAF corridor (Figure 3) and represents the rate at which the RBI *absorbs* liquidity from banks that have surplus funds, against eligible government securities.
-    *   **Effect of Change:** When the RBI *raises* the Reverse Repo rate, it makes it more attractive for banks to park their surplus funds with the RBI. This leads to absorption of liquidity from the system, contributing to tighter monetary conditions. When the RBI *lowers* the Reverse Repo rate, parking funds with the RBI becomes less remunerative, potentially leaving more liquidity in the hands of banks, which could then be used for lending, thereby easing liquidity conditions.
+* **Repo Rate Mechanism:** The Repo rate is defined (fn. 12) as the fixed interest rate at which the RBI provides short-term (typically overnight) liquidity to banks against the collateral of government securities.
+    * **Effect of Change:** When the RBI *lowers* the Repo rate, it reduces the cost for banks to borrow funds from the central bank. This can encourage banks to borrow more to meet their short-term liquidity needs, potentially increasing liquidity in the banking system and signaling an easing monetary policy stance, which tends to lower other money market rates. Conversely, when the RBI *raises* the Repo rate, borrowing from the RBI becomes more expensive, discouraging banks from accessing LAF funds, thus tightening liquidity conditions and signaling a contractionary stance.
+* **Reverse Repo Rate Mechanism:** The Reverse Repo rate functions as the floor of the LAF corridor (Figure 3) and represents the rate at which the RBI *absorbs* liquidity from banks that have surplus funds, against eligible government securities.
+    * **Effect of Change:** When the RBI *raises* the Reverse Repo rate, it makes it more attractive for banks to park their surplus funds with the RBI. This leads to absorption of liquidity from the system, contributing to tighter monetary conditions. When the RBI *lowers* the Reverse Repo rate, parking funds with the RBI becomes less remunerative, potentially leaving more liquidity in the hands of banks, which could then be used for lending, thereby easing liquidity conditions.
 
 **Difference in Mechanism:** The core difference lies in the direction of the liquidity flow and the policy signal. Repo operations *inject* liquidity (at the Repo rate, the policy ceiling/signal), while Reverse Repo operations *absorb* liquidity (at the Reverse Repo rate, the policy floor). Changes in the Repo Rate are the primary signal of the monetary policy stance, while adjustments in the corridor width (spread between Repo and Reverse Repo) and the rates themselves manage day-to-day liquidity and guide short-term interest rates in the money market.
 
@@ -78,58 +78,58 @@ Mohan and Ray (2017) explain that the RBI's monetary policy framework aims at se
 ### **10. State the primary recommendation of Narasimham committee 1998. How does the IT accelerate the transformative journey of Indian Banking? Discuss the select outcomes of the banking sector reforms in India’s goods market and money market (2+3+5)**
 
 **(a) Primary Recommendation of Narasimham Committee 1998 (2 marks):**
-According to Mohan and Ray (2017, p. 8), the Narasimham Committee 1998 primarily recommended further measures for **modernising the banking sector through better regulation and supervision, and the introduction of prudential norms**. It also suggested a review of the bank ownership structure in India.
+According to Mohan and Ray (2017, p. 8), the Narasimham Committee 1998 primarily recommended further measures for **modernising the banking sector through better regulation and supervision, and the introduction of prudential norms**. This included tighter non-performing asset (NPA) recognition, risk management, and provisioning requirements. Additionally, it advocated for the establishment of Asset Reconstruction Companies (ARCs) to handle stressed assets and suggested mergers among strong banks while allowing weak ones to exit. It also suggested a review of the bank ownership structure in India, specifically reducing government ownership of public banks to less than 33%.
 
 **(b) Role of IT in Banking Transformation (3 marks):**
 Mohan and Ray (2017, p. 11) highlight that Information Technology (IT) played a key role in the transformative journey of Indian banking by enabling:
-*   **More effective, lower cost, and real-time delivery of financial services.**
-*   **Establishment of a modern payments system**, underpinned by infrastructure like the Indian Financial Network (INFINET) as the communication backbone.
-*   **Introduction of advanced systems** such as the Real Time Gross Settlement System (RTGS) and Core Banking Solutions across most bank branches nationwide.
-*   **Institutional support** through bodies like the Institute for Development and Research in Banking Technology (IDRBT), established by the RBI in 1996, which promoted connectivity and common IT standards.
-*   **Competitive impetus**, as new private sector banks adopted new IT from inception, spurring public sector banks towards similar adoption.
+* **More effective, lower cost, and real-time delivery of financial services.**
+* **Establishment of a modern payments system**, underpinned by infrastructure like the Indian Financial Network (INFINET) as the communication backbone.
+* **Introduction of advanced systems** such as the Real Time Gross Settlement System (RTGS) and Core Banking Solutions (CBS) across most bank branches nationwide.
+* **Institutional support** through bodies like the Institute for Development and Research in Banking Technology (IDRBT), established by the RBI in 1996, which promoted connectivity and common IT standards.
+* **Competitive impetus**, as new private sector banks adopted new IT from inception, spurring public sector banks towards similar adoption.
 
 **(c) Select Outcomes of Banking Reforms in Goods and Money Markets (5 marks):**
 Mohan and Ray (2017) discuss several outcomes stemming from the banking sector reforms that impacted the goods and money markets:
 **Goods Market Outcomes:**
-*   The entry of new private sector banks and institutions like HDFC initiated a significant expansion in **retail lending and housing finance** starting in the late 1990s (p. 11).
-*   This increased availability of consumer credit **boosted demand for goods** such as automobiles, two-wheelers, and other consumer durables.
-*   This demand stimulation contributed to **overall economic growth** and helped **diversify the asset base** of banks beyond traditional corporate lending.
+* The entry of new private sector banks and institutions like HDFC initiated a significant expansion in **retail lending and housing finance** starting in the late 1990s (p. 11).
+* This increased availability of consumer credit **boosted demand for goods** such as automobiles, two-wheelers, and other consumer durables.
+* This demand stimulation contributed to **overall economic growth** and helped **diversify the asset base** of banks beyond traditional corporate lending.
 
 **Money Market Outcomes:**
-*   The money market transformed from an "archaic" state to a **deeper, more diverse, and primarily inter-bank market** (p. 10, 13).
-*   The **Liquidity Adjustment Facility (LAF)** framework was established, with the Repo Rate acting as the policy anchor, improving monetary policy transmission (p. 10, 13).
-*   **New instruments** like Collateralized Borrowing and Lending Obligations (CBLO) and market repo were introduced, widening participation beyond just banks and deepening the market (p. 13-14).
-*   **Institutional reforms**, notably the establishment of the Clearing Corporation of India Limited (CCIL) as a central counterparty, significantly improved market efficiency, transparency, liquidity, and risk management, while reducing settlement risks and costs (p. 13).
-*   Overall activity (turnover) in various money market segments increased significantly (p. 13, Table 3).
+* The money market transformed from an "archaic" state to a **deeper, more diverse, and primarily inter-bank market** (p. 10, 13).
+* The **Liquidity Adjustment Facility (LAF)** framework was established, with the Repo Rate acting as the policy anchor, improving monetary policy transmission (p. 10, 13).
+* **New instruments** like Collateralized Borrowing and Lending Obligations (CBLO) and market repo were introduced, widening participation beyond just banks and deepening the market (p. 13-14).
+* **Institutional reforms**, notably the establishment of the Clearing Corporation of India Limited (CCIL) as a central counterparty, significantly improved market efficiency, transparency, liquidity, and risk management, while reducing settlement risks and costs (p. 13).
+* Overall activity (turnover) in various money market segments increased significantly (p. 13, Table 3).
 
 ---
 ### **11. Mention the reforms in banking sector in India since 1991. Briefly discuss the emerging issues in banking sector in India. Point out the causes for the deterioration of asset quality in public sector banks during 2010-11-2015-16. (3+3+4)**
 
 **(a) Banking Sector Reforms Since 1991 (3 marks):**
 Mohan and Ray (2017, p. 8-11) outline several key banking sector reforms initiated since the early 1990s:
-1.  **Reduction of Financial Repression:** Significant lowering of the Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) to increase lendable resources.
-2.  **Interest Rate Liberalization:** Dismantling the complex administered interest rate structure to enable price discovery.
-3.  **Enhanced Competition:** Licensing new private sector banks (mid-1990s, 2015) and newer differentiated banks (Payments Banks, Small Finance Banks).
-4.  **Strengthened Regulation & Prudential Norms:** Modernizing the banking sector through improved regulation, supervision, and introduction of prudential standards.
-5.  **Technological Modernization:** Implementing modern payment systems (INFINET, RTGS) and core banking solutions.
-6.  **Improving Credit Recovery:** Enacting the SARFAESI Act (2002), establishing Credit Information Bureaus (2005), and passing the Bankruptcy Act (2016).
-7.  **Ownership Reforms:** Allowing public sector banks (PSBs) to raise equity from the market (subject to 51% government ownership).
+1. **Reduction of Financial Repression:** Significant lowering of the Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) to increase lendable resources.
+2. **Interest Rate Liberalization:** Dismantling the complex administered interest rate structure to enable price discovery.
+3. **Enhanced Competition:** Licensing new private sector banks (mid-1990s, 2015) and newer differentiated banks (Payments Banks, Small Finance Banks).
+4. **Strengthened Regulation & Prudential Norms:** Modernizing the banking sector through improved regulation, supervision, and introduction of prudential standards.
+5. **Technological Modernization:** Implementing modern payment systems (INFINET, RTGS) and core banking solutions.
+6. **Improving Credit Recovery:** Enacting the SARFAESI Act (2002), establishing Credit Information Bureaus (2005), and passing the Bankruptcy Act (2016).
+7. **Ownership Reforms:** Allowing public sector banks (PSBs) to raise equity from the market (subject to 51% government ownership).
 
 **(b) Emerging Issues in the Banking Sector (3 marks):**
 Mohan and Ray (2017, p. 14-15, 19) highlight several emerging issues as of mid-2016:
-1.  **Deterioration of Asset Quality:** The most significant concern was the rise in Non-Performing Assets (NPAs) and overall stressed assets, particularly acute in Public Sector Banks (PSBs), after a period of improvement post-reforms.
-2.  **PSB Performance and Dominance:** Despite reforms and private entry, PSBs continued to dominate the sector (over 70% assets) but showed significantly lower profitability compared to their asset share, raising questions about inherent efficiency versus governance structures and potential bureaucratic interference.
-3.  **Efficiency vs. Equity Dilemma:** PSBs potentially continued to be constrained by societal concerns and mandates, creating a conflict between efficiency goals and equity objectives.
-4.  **Uncertainty of New Entrants:** The impact and viability of the newly licensed Payments Banks and Small Finance Banks were largely unknown unknowns at the time.
-5.  **Financial Inclusion:** While progress was made, achieving universal financial inclusion remained a significant challenge ("much to achieve", p.19).
-6.  **Co-operative Bank Vulnerability:** Financial results indicated some vulnerability in the co-operative banking structure, though perhaps not systemically critical.
+1. **Deterioration of Asset Quality:** The most significant concern was the rise in Non-Performing Assets (NPAs) and overall stressed assets, particularly acute in Public Sector Banks (PSBs), after a period of improvement post-reforms.
+2. **PSB Performance and Dominance:** Despite reforms and private entry, PSBs continued to dominate the sector (over 70% assets) but showed significantly lower profitability compared to their asset share, raising questions about inherent efficiency versus governance structures and potential bureaucratic interference.
+3. **Efficiency vs. Equity Dilemma:** PSBs potentially continued to be constrained by societal concerns and mandates, creating a conflict between efficiency goals and equity objectives.
+4. **Uncertainty of New Entrants:** The impact and viability of the newly licensed Payments Banks and Small Finance Banks were largely unknown unknowns at the time.
+5. **Financial Inclusion:** While progress was made, achieving universal financial inclusion remained a significant challenge ("much to achieve", p.19).
+6. **Co-operative Bank Vulnerability:** Financial results indicated some vulnerability in the co-operative banking structure, though perhaps not systemically critical.
 
 **(c) Causes for Asset Quality Deterioration in PSBs (2010/11-2015/16) (4 marks):**
 Mohan and Ray (2017, p. 16) point to several potential factors contributing to the accumulation of NPAs in recent years, primarily affecting the industrial sector (infrastructure, steel):
-1.  **Regulatory Forbearance:** Relaxed credit norms by the RBI in the aftermath of the North Atlantic Financial Crisis (NAFC) to encourage bank lending may have led to inadequate risk assessment.
-2.  **Structural Factors & Commodity Price Fall:** Sharp declines in commodity prices and other structural issues negatively impacted the profitability of sectors like steel, impairing their ability to service debt.
-3.  **Infrastructure Push (PPP Model):** Government emphasis on infrastructure investment via Public-Private Partnerships (PPPs) led to high leverage among investing corporate entities. Banks may have deviated from rigorous credit appraisal due to government pressure or private sector enthusiasm.
-4.  **Governance Issues & Political Interference:** Allegations surfaced regarding governance problems within select PSBs and potential political interference, possibly leading to lending decisions being divorced from standard credit evaluation processes and due diligence.
+1. **Regulatory Forbearance:** Relaxed credit norms by the RBI in the aftermath of the North Atlantic Financial Crisis (NAFC) to encourage bank lending may have led to inadequate risk assessment.
+2. **Structural Factors & Commodity Price Fall:** Sharp declines in commodity prices and other structural issues negatively impacted the profitability of sectors like steel, impairing their ability to service debt.
+3. **Infrastructure Push (PPP Model):** Government emphasis on infrastructure investment via Public-Private Partnerships (PPPs) led to high leverage among investing corporate entities. Banks may have deviated from rigorous credit appraisal due to government pressure or private sector enthusiasm.
+4. **Governance Issues & Political Interference:** Allegations surfaced regarding governance problems within select PSBs and potential political interference, possibly leading to lending decisions being divorced from standard credit evaluation processes and due diligence.
 
 
 ---
@@ -137,13 +137,13 @@ Mohan and Ray (2017, p. 16) point to several potential factors contributing to t
 
 **(a) Major Initiatives for Financial Inclusion (4 marks):**
 Mohan and Ray (2017, p. 16-18) discuss a multi-pronged approach towards financial inclusion involving various initiatives over time:
-*   **Priority Sector Lending (PSL):** Stipulations requiring commercial banks to lend a specific percentage (40%) of their credit to designated priority sectors (agriculture, MSMEs, education, housing, etc.), with mechanisms like RIDF and PSLCs to manage shortfalls.
-*   **Opening No-Frills Accounts:** Simplifying account opening procedures for basic banking access.
-*   **Kisan Credit Card (KCC):** A specific credit card product designed for the farming community.
-*   **Business Correspondents (BCs):** Engaging intermediaries to provide banking and financial services in remote areas.
-*   **Pradhan Mantri Jan-Dhan Yojana (PMJDY):** Launched in 2014, this national mission aimed for universal access to banking with at least one basic account per household, bundled with a Debit card and insurance cover.
-*   **Differentiated Banks:** Licensing new types of banks – Small Finance Banks and Payments Banks – specifically aimed at furthering financial inclusion through targeted business models (savings mobilization, credit for underserved segments, payments/remittances).
-*   *Historical Context:* The paper also notes earlier efforts like the establishment of Post Office Savings Banks, Co-operative Banks, Regional Rural Banks (RRBs), and the nationalization of banks as steps taken over decades to promote inclusion.
+* **Priority Sector Lending (PSL):** Stipulations requiring commercial banks to lend a specific percentage (40%) of their credit to designated priority sectors (agriculture, MSMEs, education, housing, etc.), with mechanisms like RIDF and PSLCs to manage shortfalls.
+* **Opening No-Frills Accounts:** Simplifying account opening procedures for basic banking access.
+* **Kisan Credit Card (KCC):** A specific credit card product designed for the farming community.
+* **Business Correspondents (BCs):** Engaging intermediaries to provide banking and financial services in remote areas.
+* **Pradhan Mantri Jan-Dhan Yojana (PMJDY):** Launched in 2014, this national mission aimed for universal access to banking with at least one basic account per household, bundled with a Debit card and insurance cover.
+* **Differentiated Banks:** Licensing new types of banks – Small Finance Banks and Payments Banks – specifically aimed at furthering financial inclusion through targeted business models (savings mobilization, credit for underserved segments, payments/remittances).
+* *Historical Context:* The paper also notes earlier efforts like the establishment of Post Office Savings Banks, Co-operative Banks, Regional Rural Banks (RRBs), and the nationalization of banks as steps taken over decades to promote inclusion.
 
 **(b) Comparison of Payment Banks and Small Finance Banks (3 marks):**
 Mohan and Ray (2017, p. 18) differentiate these two new types of banks:
