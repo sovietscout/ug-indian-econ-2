@@ -33,6 +33,7 @@ Sarkar and Samantroy (2023) examine the probable impact of the four new labour c
 
 Overall, the codes represent a consolidation and some improvements but fail to comprehensively address the systemic issues faced by the vast majority of women workers in the informal sector, which is crucial for reversing the trend of falling FLFPR (Sarkar and Samantroy, 2023, The Way Forward).
 
+---
 ### **26. State the salient features of the Code on Social Security, 2020. Discuss the implication of this code in the context of falling female labour force participation in India (5+5)**
 
 **(a) Salient Features of the Code on Social Security, 2020 (5 marks):**
@@ -55,6 +56,7 @@ The Code on Social Security, 2020, has significant implications for addressing t
 
 In conclusion, while the Code on Social Security represents a commendable effort towards universalization and includes important provisions like enhanced maternity benefits, its effectiveness in significantly boosting FLFPR is limited by the exclusion of a large segment of the informal sector workforce (where most women are concentrated) due to applicability thresholds and procedural complexities (Sarkar and Samantroy, 2023, p. 5, The Way Forward).
 
+---
 ### **27. Discuss the salient features of the new labour codes in India. (10)**
 
 Based on the analysis by Sarkar and Samantroy (2023), the four new labour codes (The Code on Wages, 2019; The Industrial Relations Code, 2020; The Occupational Safety, Health and Working Conditions Code, 2020; and The Code on Social Security, 2020) represent a major reform aimed at rationalizing and consolidating 29 existing labour laws in India. Their salient features, particularly as they relate to the context of women workers and labour market dynamics, are:

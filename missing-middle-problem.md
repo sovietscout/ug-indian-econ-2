@@ -14,6 +14,7 @@ Yes, Raj and Sen (2020) strongly argue that the missing middle problem in India'
 
 Thus, the problem is framed not merely as a lack of finance or infrastructure, but as one where the institutional environment, particularly corrupted interactions with the state and complex regulations, creates disproportionate hurdles for firms seeking to grow into or operate at a mid-size scale (Raj and Sen, 2020, Conclusions).
 
+---
 ### **24. Discuss the key institutional determinants of the evolutions and persistence of the missing middle in the Indian manufacturing sector. Do you think the current policy approach for accelerating the manufacturing sector enough to address the missing middle problem? (6+4)**
 
 **(a) Key Institutional Determinants of the Missing Middle (6 marks):**
