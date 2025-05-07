@@ -39,17 +39,27 @@
 20. Discuss the major reforms in India’s indirect tax system since 1950s. Examine the overall revenue performance of GST in recent years. (5+5)
 21. Compare the evolution of GST revenue for the state governments and the union government in India during the GST with compensation regime. Mention the indication of the revenue performance of the union and the state governments in the regime of GST without compensation. The GST council is yet to decide about the compensation cess. Analyse how the distribution of revenues among the centre and the states would be affected if the compensation cess become a part of the regular rate structure of GST. (4+2+4)
 
-[Unsure]
+[Kujur, S. K. & Goswami, D. (2021). National Manufacturing Policy: A Reality Check](/national-manufacturing-policy.md)
 
 22. Illustrate the persistently dismal picture of employment across the organised and unorganised sectors in India. Discuss the key factors behind this dismal picture. How did these factors change the composition of India’s merchandise export?  What are the factors impeding the emergence of the large-scale labour-intensive manufacturing in India? (3+3+2+2)
 
-[Raj, S. N. R. & Sen, K. (2020). The ‘Missing Middle’ Problem in Indian Manufacturing: What Role Do Institutions Play?](/missing-middle-problem)
+[Raj, S. N. R. & Sen, K. (2020). The ‘Missing Middle’ Problem in Indian Manufacturing: What Role Do Institutions Play?](/missing-middle-problem.md)
 
 23. Illustrate the missing middle problem in the Indian manufacturing sector. Do you think this problem as an institutional problem? Justify your answer. (4+6)
 24. Discuss the key institutional determinants of the evolutions and persistence of the missing middle in the Indian manufacturing sector. Do you think the current policy approach for accelerating the manufacturing sector enough to address the missing middle problem? (6+4)
 
-[Sarkar, K. & Samantroy, E. (2023). New Labour Codes and Implications for Women Workers](new-labour-codes)
+[Sarkar, K. & Samantroy, E. (2023). New Labour Codes and Implications for Women Workers](/new-labour-codes.md)
 
 25. What are the labour codes recently proposed by the central government of India? State the salient features of The Industrial Relations Code, 2020. Briefly discuss the implications of these codes for women workers (1+4+5)
 26. State the salient features of the Code on Social Security, 2020. Discuss the implication of this code in the context of falling female labour force participation in India (5+5)
 27. Discuss the salient features of the new labour codes in India. (10)
+
+[Kujur, S. K. & Goswami, D. (2021). National Manufacturing Policy: A Reality Check](/national-manufacturing-policy.md)
+
+28. State the objectives of the National Manufacturing Policy (NMP) 2011. Critically examine the progress of the major objectives of NMP 2011 (3+7)
+
+[Gulati, A. & Juneja, R. (2022). Transforming Indian Agriculture](/transforming-indian-agriculture.md)
+
+29. Illustrate the emerging issues in Indian agricultural sector? Discuss the remedial measures for sustainable agricultural intensification. (5+5)
+30. Mention the significant transformation of productions in Indian Agriculture and the role of innovation and institutions in each case. Discuss the potential innovations, incentives and institutional development for ensuring food security in near future India. (5+5)
+31. Discuss the significant changes of input uses in Indian agriculture during post green revolution era. State the government initiatives and their performances for doubling farmers’ income. (5+5)
