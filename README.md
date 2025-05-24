@@ -2,9 +2,9 @@
 
 [Chatterjee, S., & Subramanian, A. (2020). India’s Inward (Re) Turn: Is it Warranted? Will it Work?](/indias-inward-return.md)
 
-1. Examine whether India has been turning inward in the context of macroeconomic policies. Evaluate the twin policy prescriptions in recent years: domestic demand over export; and protectionism over freer trade. (3+7)
-2. State the assumptions behind the self-reliance or Atmanirbhar-Bharat, strategy for future growth of Indian economy. What are the myths underlying in Indian's inward polices? Dispel the myths in light of the arguments of Chatterjee and Subramanian (2019). (3+2+5)
-3. Do you think export led growth is possible in the post-covid Indian economy? Justify your answer. Evaluate the proposition domestic demand over export and protectionism over free trade to ensure the high growth rate in India in coming years. (5+5)
+1. ~Examine whether India has been turning inward in the context of macroeconomic policies. Evaluate the twin policy prescriptions in recent years: domestic demand over export; and protectionism over freer trade. (3+7)~
+2. ~State the assumptions behind the self-reliance or Atmanirbhar-Bharat, strategy for future growth of Indian economy. What are the myths underlying in Indian's inward polices? Dispel the myths in light of the arguments of Chatterjee and Subramanian (2019). (3+2+5)~
+3. ~Do you think export led growth is possible in the post-covid Indian economy? Justify your answer. Evaluate the proposition domestic demand over export and protectionism over free trade to ensure the high growth rate in India in coming years. (5+5)~
 
 [Subramanian, A. & Felman, J. (2022). India’s Stalled Rise.](/indias-stalled-rise.md)
 
@@ -18,14 +18,14 @@
 
 [Mohan, R., & Ray, P. (2017). Indian Financial Sector: Structure, Trends and Turns.](/indias-financial-sector.md)
 
-8. Give an outline of the structure of financial institutions and financial markets in present India. Briefly discuss the journey of banking sector. Name a few numbers of Development Finance Institutions operating in India during 70s and 80’s. Why are they defunct during the liberalised era in India? (5+5)
-9. Point out the major instruments of monetary policy of RBI. Distinguish between CRR and SLR in accordance with their purpose. Explain the difference between the working mechanism of repo rate change and reverse repo rate change to control money supply in India. (2+3+5)
-10. State the primary recommendation of Narasimham committee 1998. How does the IT accelerate the transformative journey of Indian Banking? Discuss the select outcomes of the banking sector reforms in India’s goods market and money market (2+3+5)
+8. ~Give an outline of the structure of financial institutions and financial markets in present India. Briefly discuss the journey of banking sector. Name a few numbers of Development Finance Institutions operating in India during 70s and 80’s. Why are they defunct during the liberalised era in India? (5+5)~
+9. ~Point out the major instruments of monetary policy of RBI. Distinguish between CRR and SLR in accordance with their purpose. Explain the difference between the working mechanism of repo rate change and reverse repo rate change to control money supply in India. (2+3+5)~
+10. ~State the primary recommendation of Narasimham committee 1998. How does the IT accelerate the transformative journey of Indian Banking? Discuss the select outcomes of the banking sector reforms in India’s goods market and money market (2+3+5)~
 11. Mention the reforms in banking sector in India since 1991. Briefly discuss the emerging issues in banking sector in India. Point out the causes for the deterioration of asset quality in public sector banks during 2010-11-2015-16. (3+3+4)
 12. Discuss the major initiatives taken by the Government of India and RBI for financial inclusion. Compare the payment banks and the small finance banks in respect of their objectives and business model. Mention the recent developments with regard to entry of new private sector banks. (4+3+3)
 13. State the recommendations of Malhotra Committee. Give a brief account of the outcomes of the insurance sector reforms in India. Discuss the opportunities for further development of the insurance business in India. (2+5+3)
 14. Mention the key reform measures taken in respect of bond and security market in India since early 1990s. What are the types of bond markets in India? Discuss the improvement of the Indian capital market due to reforms. What are the causes for the underdevelopment of corporate debt market is India. (3+1+3+3)
-15. Write a note on: (a) Reforms in Mutual Fund segment of the Indian Capital Market (b) Reforms in Pension Funds in India. (5+5)
+15. ~Write a note on: (a) Reforms in Mutual Fund segment of the Indian Capital Market (b) Reforms in Pension Funds in India. (5+5)~
 
 [Ray, P., & Mohan, R. (2025). Recent Developments in Indian Central Banking: Flying through Turbulence but Aided but Some Tailwinds.](/developments-in-central-banking.md)
 
@@ -34,7 +34,7 @@
 
 [Agarwal, V. et al. (2024). GST Revenue Performance: Gainers and Losers after Seven Years.](/gst-revenue-performance.md)
 
-18. What is meant by cascading effect of indirect taxation? Do you think Goods and Services Tax (GST) in India has eliminated the cascading effect? Explain your opinion. Mention the advantages of GST according to the advocates of GST in India? Discuss how the implementation of GST triggers inequality in our country. (2+2+3+3)
+18. ~What is meant by cascading effect of indirect taxation? Do you think Goods and Services Tax (GST) in India has eliminated the cascading effect? Explain your opinion. Mention the advantages of GST according to the advocates of GST in India? Discuss how the implementation of GST triggers inequality in our country. (2+2+3+3)~
 19. Mention the central and state taxes subsumed under GST in India. Discuss how the introduction of GST accelerate the indirect tax collection in India during last five years. Is it stagflationary? Explain. In the context of GST illustrate the concept of revenue neutral tax rate and its implications in Indian economy. (2+2+2+4)
 20. Discuss the major reforms in India’s indirect tax system since 1950s. Examine the overall revenue performance of GST in recent years. (5+5)
 21. Compare the evolution of GST revenue for the state governments and the union government in India during the GST with compensation regime. Mention the indication of the revenue performance of the union and the state governments in the regime of GST without compensation. The GST council is yet to decide about the compensation cess. Analyse how the distribution of revenues among the centre and the states would be affected if the compensation cess become a part of the regular rate structure of GST. (4+2+4)
