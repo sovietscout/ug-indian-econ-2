@@ -9,10 +9,12 @@ According to Sarkar and Samantroy (2023), the central government of India has en
 
 **(b) Salient Features of The Industrial Relations Code, 2020 (4 marks):**
 The Industrial Relations Code, 2020, subsumes three existing legislations: the Trade Union Act 1926, the Industrial Employment Standing Order Act 1946, and the Industrial Dispute Act 1947 (Sarkar and Samantroy, 2023, p. 6). While the article primarily focuses on the implications for women, it highlights certain features relevant to the broader framework:
-*   **Subsumption of Acts:** It consolidates the key laws governing trade unions, conditions of employment, and the resolution of industrial disputes.
-*   **Gender Neutrality (stated):** The code's provisions regarding trade union formation and functions are viewed as gender-neutral (Sarkar and Samantroy, 2023, p. 6).
-*   **Absence of Special Provisions for Women:** The article notes that despite aiming for gender neutrality, the code does not include any special provisions specifically for women employees (Sarkar and Samantroy, 2023, p. 6).
-*   **Trade Union Representation:** The authors argue that considering the low representation of women in trade union executive committees, the code *should have stipulated* a minimum threshold representation for women in the executive body of trade unions to ensure issues specific to women workers are prioritised (Sarkar and Samantroy, 2023, p. 6).
+- **Strikes and Lockouts:** The Code mandates a 60-day notice before strikes or lockouts in all industrial establishments, extending restrictions beyond public utility services. It criminalises strikes held in violation of these rules, potentially curbing workers' collective bargaining power.
+- **Standing Orders Threshold Increased:** The rule for standing orders now applies only to workplaces with 300 or more workers, instead of 100. This change means more employers can avoid following formal rules for discipline and work conditions, which could lead to unfair or sudden dismissals.
+- **Fixed-Term Employment:** The Code legalises fixed-term employment across sectors, granting temporary workers parity with permanent employees in terms of wages and benefits. However, this also facilitates easier termination without long-term employment obligations.
+- **Trade Union Recognition:** A trade union with 51% of workers as members will be recognized as the sole negotiating union. If no union crosses the threshold, a negotiating council with representatives of multiple unions will be formed.
+- **Dispute Resolution Mechanism:** It introduces mechanisms like Industrial Tribunals and a two-member bench structure to streamline dispute adjudication.
+- **Retrenchment & Layoffs:** Employers in establishments with up to 300 workers can lay off or retrench employees without government permission, an increase from the earlier threshold of 100 workers.
 
 **(c) Implications of the New Codes for Women Workers (5 marks):**
 Sarkar and Samantroy (2023) examine the probable impact of the four new labour codes on women workers, particularly in the context of the declining female labour force participation rate. The implications are mixed, with some potential benefits and significant omissions:
