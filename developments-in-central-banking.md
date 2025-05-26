@@ -1,73 +1,55 @@
-### **16. State the objectives of flexible inflation targeting (FIT) strategy in India. Mention the unconventional monetary policy measures taken by the RBI during the period of pandemic. Discuss the inflation experience before and during the FIT regime in India. What have been the major achievements of the FIT regime in India? (2+2+3+3)**  
+### **16. State the objectives of flexible inflation targeting (FIT) strategy in India. Mention the unconventional monetary policy measures taken by the RBI during the period of pandemic. Discuss the inflation experience before and during the FIT regime in India. What have been the major achievements of the FIT regime in India? (2+2+3+3)**
 
-**(a) Objectives of the Flexible Inflation Targeting (FIT) Strategy in India (2 Marks):**
-The Flexible Inflation Targeting (FIT) regime was officially adopted in India in May 2016 after the amendment of the Reserve Bank of India Act, 1934. The primary objectives of FIT are:
-1. Anchoring inflation expectations — by maintaining inflation within a specified target range, FIT aims to provide price stability and support economic growth.
-2. Enhancing monetary policy credibility — by establishing inflation as the nominal anchor, the policy framework strengthens RBI’s independence and effectiveness in controlling inflation.
+**(a) Objectives of Flexible Inflation Targeting (FIT) Strategy in India (2 marks):**
+India adopted a "flexible inflation targeting" (FIT) regime in May 2016, following an amendment to the RBI Act, 1934 (Ray & Mohan, 2025, p. 3). The primary objective of this framework is to establish inflation as the "nominal anchor for the monetary policy framework" (RBI, 2014, as cited in Ray & Mohan, 2025, p. 3). Specifically, the Central Government, in consultation with the Reserve Bank of India (RBI), determined the inflation target in terms of the Consumer Price Index (CPI) to be 4% for a five-year period (2016-2021 and subsequently extended to 2026), with a symmetrical tolerance band of +/- 2% (i.e., 2% to 6%) (Ray & Mohan, 2025, p. 4). This move was also a direct response to the high inflation experienced in India during 2009–2014.
 
-**(b) Unconventional Monetary Policy Measures Taken by RBI during the Pandemic (2 Marks):**
-During the COVID-19 pandemic, RBI implemented both conventional and unconventional monetary policy measures to mitigate economic disruptions and stabilize financial markets. Unconventional measures included:
-1. Liquidity Injection Programs —RBI introduced Targeted Long-Term Repo Operations (TLTROs) and Special Liquidity Facilities for banks, NBFCs, and financial institutions to maintain credit flow.
-2. Government Security Acquisition Programs (G-SAPs) — This allowed RBI to purchase government bonds, ensuring market liquidity without excessive monetary expansion.
-3. Standing Deposit Facility (SDF) — Introduced in April 2022, SDF enabled RBI to absorb excess liquidity without collateral.
-4. Cash Reserve Ratio (CRR) cut —CRR was reduced by 1370 billion INR, freeing up bank reserves to support lending.
+**(b) Unconventional Monetary Policy Measures taken by the RBI during the Pandemic (2 marks):**
+During the COVID-19 pandemic, the RBI adopted both conventional and unconventional monetary policy measures to mitigate the negative effects of the virus, revive growth, and preserve financial stability (Ray & Mohan, 2025, p. 6). Beyond the policy rate cuts (Repo and Reverse Repo), the unconventional measures included:
+*   **Extended Lending Operations:** Such as Long-Term Repo Operations (LTROs) and Targeted Long-Term Repo Operations (TLTROs), which were introduced even before the pandemic to improve policy transmission and address cyclical slowdowns (Ray & Mohan, 2025, p. 7; Table 2).
+*   **Asset Purchase Programs:** Specifically, Net Open Market Operation purchases and Government Securities Acquisition Programme (G-SAP) (Ray & Mohan, 2025, p. 7; Table 2).
+*   **Special Liquidity Facilities:** For various sectors and institutions, including Primary Dealers, mutual funds, Non-Banking Financial Companies (NBFCs), NABARD, SIDBI, NHB, EXIM Bank, small finance banks, and for emergency health services and contact-intensive sectors (Ray & Mohan, 2025, Table 2).
+The cumulative quantum of these measures amounted to 8.7% of nominal GDP for 2020-2021, signifying substantial monetary expansion (Ray & Mohan, 2025, p. 7).
 
-**(c) Inflation Experience Before and During the FIT Regime (3 Marks):**
-- Before FIT (Pre-2015): Inflation in India was highly volatile, particularly between 2009 and 2014, due to high food and fuel prices. The monetary policy lacked clear anchoring, leading to inconsistent inflation control.
-- During FIT (2016 Onwards): 
-  1. Reduced Inflation Volatility —Inflation remained within the prescribed range of 4% ±2%, except during the pandemic years.
-  2. Pandemic Disruptions —Inflation spiked beyond the RBI’s comfort zone, with food and fuel prices causing concern, especially in 2020–21 and 2022.
-  3. Global Supply Shocks — Despite external pressures, the FIT framework helped stabilize inflation expectations, reinforcing monetary policy credibility.
+**(c) Inflation Experience Before and During the FIT Regime in India (3 marks):**
+The inflation experience in India has shown distinct patterns before and during the FIT regime:
+*   **Before FIT (Pre-2016):** India experienced high inflation, particularly during 2008-2009 to 2012-2013, with average CPI inflation (All India Combined) reaching 9.9%, and food and beverages inflation at 11.2% (Ray & Mohan, 2025, Table 3). This period was deemed "an outlier" compared to other periods (Ray & Mohan, 2025, p. 8). The period 1995-1996 to 2007-2008, prior to the explicit FIT regime, also showed relatively high inflation, comparable to the FIT years (Ray & Mohan, 2025, p. 9).
+*   **During FIT (Post-2016):** After the adoption of FIT in 2016, inflation generally moderated. However, the COVID-19 pandemic introduced significant turbulence. Indian inflation during 2020-2021 saw a sharp spurt, particularly in food and fuel and light components (Ray & Mohan, 2025, p. 4). Inflation averaged 6.6% in Q2 and Q3 of 2020-2021, exceeding the upper tolerance limit of 6% under the FIT regime. This overshooting continued into 2022 and 2023, reflecting a predominance of food and fuel price shocks and supply chain disruptions (Ray & Mohan, 2025, p. 4-5). Despite these challenges, the average inflation rate during 2013-2014 to 2022-2023 (which largely covers the FIT period) was 5.5% (Table 3), comparable to the pre-2008 period (Ray & Mohan, 2025, p. 9).
 
-**(d) Major Achievements of the FIT Regime in India (3 Marks):**
-1. Inflation Control—Inflation rates post-2016 were comparatively lower than pre-2015 levels, reflecting effective monetary management.
-2. Strengthened Financial Stability —Banks’ non-performing assets (NPAs) improved significantly, supported by bank recapitalization and better regulatory oversight.
-3. Monetary Policy Transmission — The adoption of clear inflation goals enhanced RBI’s ability to manage interest rates and liquidity, improving financial market stability.
-
-While the FIT regime has had successes, supply-side shocks, particularly food and energy prices, remain challenges. The debate on whether headline inflation or core inflation should be targeted continues, especially given India’s high exposure to food price fluctuations.
+**(d) Major Achievements of the FIT Regime in India (3 marks):**
+Despite the challenges posed by external shocks and the pandemic, the FIT regime in India has demonstrated several achievements:
+*   **Inflation Expectation Anchoring:** Research suggests that since the adoption of inflation targeting, markets believe that the RBI has become more responsive to inflation, indicating improved anchoring of inflation expectations and enhanced anti-inflation credibility (Eichengreen et al., 2020; Garga et al., 2022, as cited in Ray & Mohan, 2025, p. 4, 9).
+*   **Reduced Volatility:** The volatility in inflation appears to have decreased in the post-FIT period (Ray & Mohan, 2025, p. 9).
+*   **Macroeconomic Stability:** The Indian financial sector has exhibited remarkable stability since 2019 despite COVID-related disruptions. India has maintained its growth momentum after the pandemic year, and inflation, while occasionally higher than the target range, has shown lower deviation from the target compared to many advanced economies (Ray & Mohan, 2025, p. 17). This indicates that the FIT regime, combined with other policy measures, contributed to overall macroeconomic stability.
+*   **Financial Deepening and Inclusion:** The paper implies that the overall policy environment, including the stability provided by FIT, supports other positive developments like the digital payment infrastructure, which in turn enhances financial deepening and inclusion (Ray & Mohan, 2025, p. 17).
 
 ---
-### **17. Discuss the major factors behind the recent improvement in asset quality of commercial banks in India. What are the recent past development in digital payment infrastructure in India? Discuss the outcomes of these initiatives. (4+2+4)**  
 
-**(a) Major Factors Behind the Recent Improvement in Asset Quality of Commercial Banks in India (4 Marks):**
-The asset quality of commercial banks in India has seen a significant improvement in recent years, driven by several key factors:
+### **17. Discuss the major factors behind the recent improvement in asset quality of commercial banks in India. What are the recent past development in digital payment infrastructure in India? Discuss the outcomes of these initiatives. (4+2+4)**
 
-1. Implementation of the Insolvency and Bankruptcy Code (IBC), 2016
-   - The establishment of the Insolvency and Bankruptcy Board of India (IBBI) simplified and accelerated corporate bankruptcy processes.
-   - The IBC framework improved credit recovery, allowing banks to resolve stressed assets more effectively.
-2. Regulatory and Supervisory Enhancements by RBI  
-   - RBI strengthened off-site surveillance systems using SupTech (automated data analysis tools).
-   - Big data techniques and cyber-security initiatives have enhanced risk monitoring and regulatory oversight
-3. Bank Consolidation and Merger Strategies 
-   - The government merged 10 public sector banks into four entities, improving operational efficiency and asset management.
-   - Mergers helped streamline lending practices and recover non-performing assets.
-4. Government-Driven Recapitalization Efforts 
-   - The government infused ₹3.1 trillion into public sector banks between 2016–2021, with a large portion allocated through recapitalization bonds.
-   - This infusion strengthened bank balance sheets and improved credit flows to the economy.
+**(a) Major Factors Behind the Recent Improvement in Asset Quality of Commercial Banks in India (4 marks):**
+The Indian banking sector has experienced a significant improvement in asset quality, particularly evident in the reduction of non-performing assets (NPAs), which fell to a decadal low of 3.2% at end-September 2023 (Ray & Mohan, 2025, p. 10). Several key factors have contributed to this restoration of health:
+1.  **Insolvency and Bankruptcy Code (IBC), 2016:** The enactment of the IBC in 2016 and the establishment of the Insolvency and Bankruptcy Board of India (IBBI) simplified and accelerated the corporate bankruptcy process. This new system has demonstrably improved credit recovery rates, outperforming other prevalent channels of NPA recovery (Ray & Mohan, 2025, p. 10, Table 4).
+2.  **Strengthened RBI Surveillance and Monitoring:** The RBI has enhanced its off-site surveillance systems by leveraging SupTech (supervisory technology) for web-based end-to-end workflow and automated data reporting. Additionally, big data techniques and Cyber Range tools are increasingly used to supplement supervisory initiatives and conduct cyber security drills, leading to better monitoring and a framework of prompt corrective action (Ray & Mohan, 2025, p. 11).
+3.  **Government Recapitalization of Public Sector Banks:** The Central Government infused substantial capital, Rs 3.1 trillion, into public sector banks during 2016-17 to 2020-21 through budgetary allocations and issuance of recapitalization bonds. These bonds, subscribed by commercial banks, provided equity capital without immediate budgetary outflow, strengthening bank balance sheets (Ray & Mohan, 2025, p. 11-12).
+4.  **Bank Mergers:** The merger of 10 public sector banks into four entities, announced in 2019, has contributed to efficiency gains and improved balance sheets, even if arithmetically neutral to the overall GNPA ratio (Ray & Mohan, 2025, p. 11).
+5.  **Write-offs of Bad Debt:** Alongside recoveries, strategic write-offs of bad debt by banks have also played a role in bringing down the reported GNPA ratios (Ray & Mohan, 2025, p. 12).
 
-**(b) Recent Developments in Digital Payment Infrastructure in India (2 Marks):**
-India has witnessed remarkable progress in its digital payment infrastructure, led by both public and private sector initiatives:
+**(b) Recent Past Developments in Digital Payment Infrastructure in India (2 marks):**
+India has made substantial strides in its digital payment infrastructure in recent years, becoming a frontrunner globally (Ray & Mohan, 2025, p. 12). Key developments include:
+*   **Legal and Regulatory Framework:** The Payment and Settlement Systems Act, 2007, provided the legal basis for regulating payment systems and designated the RBI as the primary regulator (Ray & Mohan, 2025, p. 13).
+*   **National Payments Corporation of India (NPCI):** Established in 2009 by the RBI and Indian Banks' Association (IBA), NPCI has been instrumental in facilitating the rollout of digital payment infrastructure (Ray & Mohan, 2025, p. 13).
+*   **Unified Payments Interface (UPI):** Launched in April 2016, UPI is a game-changer system that integrates multiple bank accounts into a single mobile application, enabling seamless, 24x7, 365-day instant fund transfers and merchant payments (P2P and P2M) using QR codes, even for small transactions (Ray & Mohan, 2025, p. 13).
+*   **Aadhaar-based Identity System:** The 12-digit Aadhaar identity system, based on biometrics and demographic data, established under the Aadhaar Act, 2016, covers nearly 99% of India's adult population. It enables easy and secure digital identity verification (e-KYC) and underpins various payment and subsidy transfer systems (Ray & Mohan, 2025, p. 13; fn. 16).
+*   **Real Time Gross Settlement (RTGS):** Made available 24x7x365 since December 2020, RTGS facilitates continuous, real-time settlement of large-value fund transfers (Ray & Mohan, 2025, p. 13).
+*   **Prepaid Payment Instruments (PPIs):** Facilitating goods/services purchases and financial services against stored value (Ray & Mohan, 2025, p. 13).
+*   **Digital Identity Verifications:** The growth of Account Aggregators and digital identity verifications have significantly expanded the digital financial infrastructure (Ray & Mohan, 2025, p. 14).
 
-1. UPI Expansion and Interoperability  
-   - The Unified Payments Interface (UPI) has seen significant growth, enabling seamless peer-to-peer and merchant transactions.
-   - Introduction of UPI Lite and UPI for feature phones broadened digital access.
-
-2. Government-Driven Digital Payment Frameworks 
-   - The National Payments Corporation of India (NPCI) has expanded its role in overseeing digital financial transactions.
-   - Programs like E-Rupi, a digital voucher payment system, were introduced to facilitate targeted transactions.
-
-**(c) Outcomes of These Initiatives (4 Marks):**
-The developments in banking asset quality and digital payments have led to several transformative outcomes:
-
-1. Improved Financial Stability  
-   - Banks reported the lowest gross non-performing asset (GNPA) ratio in a decade (3.2% in September 2023), strengthening financial stability.
-   - Enhanced credit monitoring reduced loan defaults and improved borrower behaviour.
-2. Widespread Adoption of Digital Payments  
-   - Digital transaction volume and value increased substantially, integrating digital payments into daily commerce.
-   - Small businesses and rural consumers gained access to digital financial services, enhancing economic inclusivity.
-3. Boost to Economic Growth and Policy Transmission 
-   - With banks regaining lending confidence, credit availability for businesses improved.
-   - Digital payments contributed to GDP growth by increasing financial efficiency and reducing cash dependency.
-4. Enhanced Consumer Convenience and Cyber-security Measures 
-   - The convenience of QR code payments and UPI-based transactions simplified digital commerce.
-   - Strengthened cyber-security protocols reduced fraud risks, ensuring safer digital transactions.
+**(c) Outcomes of These Initiatives (4 marks):**
+These initiatives have led to a transformative digital payments revolution in India, particularly in retail payments:
+*   **Dominance of Digital Payments:** Paper-based instruments have largely lost their importance. Digital payments now account for over 99% of total payment volume and 97% of total payment value, signifying a profound shift from cash (Ray & Mohan, 2025, p. 14, Figure 5).
+*   **Enhanced Financial Inclusion:** The digital infrastructure, especially Aadhaar-enabled systems like Aadhaar Payment Bridge System (APBS) and Aadhaar Enabled Payment System (AEPS), has formed the backbone of India's Direct Benefit Transfer (DBT) system. This has enabled the direct disbursement of INR 19.3 trillion in government relief and income support to identified beneficiaries by November 2021, promoting financial inclusion (Ray & Mohan, 2025, p. 15).
+*   **Convenience and Low Transaction Costs:** The ease of making daily payments, even the smallest transactions via QR codes, and the low transaction costs have encouraged widespread adoption among the public (Ray & Mohan, 2025, p. 14).
+*   **Resilience during Pandemic:** The digital payments infrastructure proved invaluable during the COVID-19 pandemic and lockdowns, with a significant majority (81%) of respondents reporting higher usage of digital payment methods than cash (KPMG, 2020, as cited in Ray & Mohan, 2025, p. 15).
+*   **Shift from Cash:** While currency in circulation as a percentage of M3 saw a one-off spike due to demonetization, the broader trend shows a decline in currency-M3 ratio from 16% in 2001 to 13% in 2023, with deposits increasing proportionally (Ray & Mohan, 2025, p. 15, Figure 6).
+*   **High Digital Payment Index (DPI) Score:** India has made significant progress in its digital payment infrastructure, as reflected in the RBI's composite Digital Payments Index (DPI), which captures the deepening and penetration of digital payments across the country (Ray & Mohan, 2025, p. 15-16, Figure 7).
+*   **Global Recognition:** India's digital public goods, such as Aadhaar, have received international praise for their potential to facilitate financial transactions and be widely adopted globally (Paul Romer, as cited in Ray & Mohan, 2025, p. 16).
