@@ -32,11 +32,14 @@
 16. State the objectives of flexible inflation targeting (FIT) strategy in India. Mention the unconventional monetary policy measures taken by the RBI during the period of pandemic. Discuss the inflation experience before and during the FIT regime in India. What have been the major achievements of the FIT regime in India? (2+2+3+3)
 17. Discuss the major factors behind the recent improvement in asset quality of commercial banks in India. What are the recent past development in digital payment infrastructure in India? Discuss the outcomes of these initiatives. (4+2+4)
 
-[Agarwal, V. et al. (2024). GST Revenue Performance: Gainers and Losers after Seven Years.](/gst-revenue-performance.md)
+[Kumar, A. (2015). Macroeconomic Aspects of Goods and Services Tax](/macroeconomic-aspects-of-gst.md)
 
 18. ~What is meant by cascading effect of indirect taxation? Do you think Goods and Services Tax (GST) in India has eliminated the cascading effect? Explain your opinion. Mention the advantages of GST according to the advocates of GST in India? Discuss how the implementation of GST triggers inequality in our country. (2+2+3+3)~
 19. Mention the central and state taxes subsumed under GST in India. Discuss how the introduction of GST accelerate the indirect tax collection in India during last five years. Is it stagflationary? Explain. In the context of GST illustrate the concept of revenue neutral tax rate and its implications in Indian economy. (2+2+2+4)
 20. Discuss the major reforms in India’s indirect tax system since 1950s. Examine the overall revenue performance of GST in recent years. (5+5)
+
+[Agarwal, V. et al. (2024). GST Revenue Performance: Gainers and Losers after Seven Years.](/gst-revenue-performance.md)
+
 21. Compare the evolution of GST revenue for the state governments and the union government in India during the GST with compensation regime. Mention the indication of the revenue performance of the union and the state governments in the regime of GST without compensation. The GST council is yet to decide about the compensation cess. Analyse how the distribution of revenues among the centre and the states would be affected if the compensation cess become a part of the regular rate structure of GST. (4+2+4)
 
 [Kujur, S. K. & Goswami, D. (2021). National Manufacturing Policy: A Reality Check.](/national-manufacturing-policy.md)
